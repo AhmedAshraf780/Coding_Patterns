@@ -8,4 +8,4 @@ Problem_Solving Preparation
 4. Write Your Name Above your solution
 
 
-# ECPC 2025
+# ECPC 2025/2026
