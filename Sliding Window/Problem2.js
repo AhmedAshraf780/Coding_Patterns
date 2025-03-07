@@ -16,7 +16,7 @@ var findLHS = function(nums) {
 
     // Count frequency of each number
     for(var num of nums){
-      map.set(num,(map.get(num)|0)+1);
+      map.set(num,(map.get(num)||0)+1);
     }
 
     // Combine each num count with num + 1 count 
